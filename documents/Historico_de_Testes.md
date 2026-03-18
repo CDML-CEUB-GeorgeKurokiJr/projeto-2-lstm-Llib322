@@ -102,6 +102,7 @@ Resultado: MAPE de 1.30% | MAE: US$ 5.81
 
 Conclusão: Atingimos o Noise Floor (piso de ruído) do mercado. A rede é hiper-estável.
 
+<img width="1160" height="547" alt="image" src="https://github.com/user-attachments/assets/9b4588cf-5ce2-49d8-afc4-eeb0362d4bc8" />
 
 Teste 11: O Experimento Absoluto (2.000 Redes)
 
