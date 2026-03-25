@@ -18,6 +18,7 @@ META    0.608215  1.000000  0.617550  0.527913
 MSFT    0.695322  0.617550  1.000000  0.666643
 NVDA    0.566107  0.527913  0.666643  1.000000
 ```
+<img width="715" height="638" alt="image" src="https://github.com/user-attachments/assets/11e88b37-9895-4410-873d-24232c03cbb8" />
 
 ---
 
@@ -37,6 +38,7 @@ MAPE META: 4.72%
 MAPE GLOBAL DO ECOSSISTEMA: 3.52%
 ==================================================
 ```
+<img width="1587" height="985" alt="image" src="https://github.com/user-attachments/assets/7fdf70a0-cb50-4923-a62c-33529ae2ef7c" />
 
 ---
 
@@ -56,6 +58,7 @@ MAPE Meta: 7.11%
 MAPE GLOBAL DO ECOSSISTEMA: 5.33%
 ==================================================
 ```
+<img width="1588" height="985" alt="image" src="https://github.com/user-attachments/assets/11ba65da-a889-4866-95d9-b61879f02df0" />
 
 ---
 
@@ -84,6 +87,7 @@ MAPE GLOBAL: 4.11%
 HIT RATE GLOBAL: 50.45%
 ==================================================
 ```
+<img width="1588" height="985" alt="image" src="https://github.com/user-attachments/assets/6982ed11-167b-42b1-9b05-cd3d03800f02" />
 
 ---
 
@@ -112,6 +116,7 @@ MAPE GLOBAL DO ECOSSISTEMA: 3.24%
 HIT RATE MÉDIO DO PORTFÓLIO: 51.41%
 ==================================================
 ```
+<img width="1588" height="985" alt="image" src="https://github.com/user-attachments/assets/47f7cd39-7e4f-4401-a35f-65d1ee58d936" />
 
 ---
 
@@ -175,6 +180,7 @@ MAPE GLOBAL DO ECOSSISTEMA: 4.05%
 HIT RATE MÉDIO DO PORTFÓLIO: 52.25%
 ==================================================
 ```
+<img width="1589" height="985" alt="image" src="https://github.com/user-attachments/assets/45be4d27-768a-4267-b96e-b4afc066e8f7" />
 
 ---
 
@@ -203,6 +209,7 @@ MAPE GLOBAL DO ECOSSISTEMA: 2.94%
 HIT RATE MÉDIO DO PORTFÓLIO: 52.03%
 ==================================================
 ```
+<img width="1589" height="985" alt="image" src="https://github.com/user-attachments/assets/ea47b5c2-8ebb-4d3c-9b0b-f6bac4733dd5" />
 
 ---
 
@@ -290,6 +297,7 @@ MAE GLOBAL MÉDIO: US$ 22.39
 HIT RATE GLOBAL: 51.38%
 ======================================================================
 ```
+<img width="1589" height="985" alt="image" src="https://github.com/user-attachments/assets/e2ea8b17-4e83-4b3e-91dd-8c17c5e99d55" />
 
 ---
 
@@ -327,6 +335,7 @@ MAE GLOBAL MÉDIO: US$ 29.65
 HIT RATE GLOBAL: 50.73%
 ======================================================================
 ```
+<img width="1589" height="985" alt="image" src="https://github.com/user-attachments/assets/f14aeba6-1a4a-41af-b9e2-ff9386d5eaed" />
 
 ---
 
@@ -355,6 +364,7 @@ MAPE GLOBAL DO ECOSSISTEMA (Dia 1): 6.24%
 MAPE GLOBAL DO ECOSSISTEMA (Dia 5): 7.85%
 ======================================================================
 ```
+<img width="1589" height="985" alt="image" src="https://github.com/user-attachments/assets/d1d046ed-67b1-4eb4-953f-bb8169a4309b" />
 
 ---
 
@@ -392,6 +402,7 @@ MAE GLOBAL MÉDIO: US$ 11.26
 HIT RATE GLOBAL: 52.54%
 ======================================================================
 ```
+<img width="1589" height="985" alt="image" src="https://github.com/user-attachments/assets/30d8b1b9-7f84-4b1d-87bf-1f084f184cbc" />
 
 ---
 
@@ -429,6 +440,7 @@ MAE GLOBAL MÉDIO: US$ 6.86
 HIT RATE GLOBAL: 51.09%
 ======================================================================
 ```
+<img width="1589" height="985" alt="image" src="https://github.com/user-attachments/assets/dddb96f8-f7f2-49c1-b8af-9b2710118884" />
 
 ---
 
@@ -451,3 +463,4 @@ Estratégia Gerida pela IA (Walk-Forward):
   - Retorno Acumulado: 29.68%
 ============================================================
 ```
+<img width="1189" height="590" alt="image" src="https://github.com/user-attachments/assets/f561ae8f-06fb-45fd-b2d6-fc3c9c1a5dc2" />
